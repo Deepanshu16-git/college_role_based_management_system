@@ -19,6 +19,7 @@ class hello {
         cout<<"enter your age";
         cin>>age;
         cout<<"enter your mobile";
+        cout<<"hello"<<endl;
         cin>>mobile;
     }
     void admin(){
